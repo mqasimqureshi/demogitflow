@@ -8,3 +8,9 @@
 Demo git flow
 in the words of bush
 > us is a fail state
+```
+git status
+git status
+git status
+git status
+```
